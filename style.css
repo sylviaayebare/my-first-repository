@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+}
+h1 {
+    text-decoration: underline;
+    color: brown;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h2 { color:aqua}
+p { color:blueviolet
+}
+#html -summary { 
+    color:chartreuse
+}
+p,ol li { color: darkblue;
+font-style: initial; 
+font-family: cursive;
+font-size: 10px;}
