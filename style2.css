@@ -1,5 +1,7 @@
-body {background-color: bisque;}
-h1{color:aqua
+body {background-color: rgb(241, 206, 224);}
+h1{color:rgb(0, 5, 5) ;background-color: aqua;
     
 }
-p {color:blue}
+p {color:rgb(4, 48, 83)}
+#content {font-size: smaller;font-style: italic;}
+h2{background-color: aqua;text-underline-position: below;}
